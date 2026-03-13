@@ -1,0 +1,5 @@
+5 Integração de Containers (Orquestração e Comunicação entre Serviços)
+Como fazer containers se comunicarem entre si em um mesmo sistema?
+Diferença entre rodar containers isolados e usar ferramentas de orquestração.
+Exemplos práticos com docker-compose.
+Quais problemas comuns de integração e como resolvê-los?
